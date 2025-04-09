@@ -1,0 +1,31 @@
+admin token -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZjZhZjM0YjA0MDk5NWIzZmU5N2E2NSIsImlhdCI6MTc0NDIxOTk2NH0.EgG99KcjumPZ07kLB2m2TBL0_ufOgfoEB5ODqMmBCyI
+
+user token --> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZjZhZmJkYjA0MDk5NWIzZmU5N2E2ZSIsImlhdCI6MTc0NDIyMDEwNH0.As-YDRBHDPlqyz5k5isFwcxrlhkuWjbjp9xhPu-fB5U
+
+
+frontend-course-id - > 67f6af67b040995b3fe97a69
+backend-course-id -->  67f6af7cb040995b3fe97a6b
+
+user details ->
+{
+    "email" : "keshav@gmail.com",
+    "password" : "123",
+    "firstName": "Keshav",
+    "lastName" : "Rastogi"   
+}
+
+admin details- >
+{
+    "email" : "raghav@gmail.com",
+    "password" : "123",
+    "firstName": "Raghav",
+    "lastName" : "Rastogi"
+}
+
+course details->
+{
+    "title" : "frontend-course",
+    "description" : "All about frontend",
+    "price" : "2999",
+    "imageUrl" : "https://static.vecteezy.com/system/resources/thumbnails/011/153/364/small_2x/3d-website-developer-working-on-laptop-illustration-png.png"
+}
